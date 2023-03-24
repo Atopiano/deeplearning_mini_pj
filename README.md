@@ -37,6 +37,6 @@ ai hub의 감성 대화 말뭉치 데이터셋과 딥러닝을 활용해
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Reference
-월간 데이콘 KOSPI 기반 분석 시각화 경진대회, KOSPI 지수 데이터셋
-https://dacon.io/competitions/official/235980/codeshare/6770?page=1&dtype=random
+ai hub 감성 대화 말뭉치 데이터 셋   
+https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86
 <br>
